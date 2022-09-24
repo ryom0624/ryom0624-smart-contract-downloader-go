@@ -57,4 +57,7 @@ Others, no argument pattern.
 Default output dir is `./output/{contract_name}_{contract_address}.zip`.
 
     
+## License
+
+MIT [LICENSE.md](https://github.com/ryom0624/smart-contract-downloader-go/blob/master/LICENSE)
 
